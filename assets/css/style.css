@@ -368,6 +368,7 @@ main {
   z-index: 1;
 }
 
+
 .info_more-btn::before {
   content: "";
   position: absolute;
